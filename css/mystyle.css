@@ -1,0 +1,12 @@
+h1 {
+    color: mediumpurple;
+    text-align: right;
+    text-decoration: underline;
+}
+
+img {
+    width: 50px;
+    border: solid 3px;
+    padding: 50px;
+    border-radius: 25px;
+}
